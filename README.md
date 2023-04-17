@@ -17,13 +17,13 @@ The `TicTacToe` class represents the game board and game logic for a `TicTacToe`
 
 ### Properties:
 
-**fieldGame** - public property which stores two-dimensional array with playing field.
++ **fieldGame** - public property which stores two-dimensional array with playing field.
 
-**fieldExample** - public property which stores two-dimensional array with field contains an example of moves.
++ **fieldExample** - public property which stores two-dimensional array with field contains an example of moves.
 
-**recodeList** - private property which stores recode information index for array `fieldGame`. Each element of the array contains two indexes 
++ **recodeList** - private property which stores recode information index for array `fieldGame`. Each element of the array contains two indexes 
 
-**winComb** - private property which stores winning combinations
++ **winComb** - private property which stores winning combinations
 
 ### Methods:
 
